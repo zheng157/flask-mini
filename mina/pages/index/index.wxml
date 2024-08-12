@@ -1,0 +1,21 @@
+<!--start.wxml-->
+<view class="container">
+  <view class="remind-box" wx:if="{{remind}}">
+  </view>
+  <block wx:else>
+    <image class="title" src="/images/more/title8.png"></image>
+    <view class="content">
+      <view class="hd" style="transform:rotateZ({{angle}}deg);"></view>
+	<view class="title" >私家订餐</view>
+      <view class="bd">
+        <view class="confirm-btn" bindtap='goToIndex' wx:if="{{regFlag == true}}" >
+          <text >订餐去</text>
+        </view>
+		<button class="confirm-btn"  open-type="getUserInfo" bindgetuserinfo="login"
+		wx:if="{{regFlag == false}}" >
+		授权登录</button>
+        <text class="copyright">1965679638@qq.com</text>
+      </view>
+    </view>
+  </block>
+</view>

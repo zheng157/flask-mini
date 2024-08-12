@@ -1,0 +1,110 @@
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/config/base_setting.py'
+Traceback (most recent call last):
+  File "/home/zheng/flask-mini/manager.py", line 1, in <module>
+    from application import manager,app
+  File "/home/zheng/flask-mini/application.py", line 16, in <module>
+    app = Application( __name__,os.getcwd()+ '/web/templates/',root_path=os.getcwd())
+  File "/home/zheng/flask-mini/application.py", line 9, in __init__
+    self.config.from_pyfile( 'config/base_setting.py' )
+  File "/home/zheng/flask-mini/439845b85c0a405cebc2e738b0786f15_venv/lib/python3.6/site-packages/flask/config.py", line 131, in from_pyfile
+    with open(filename, mode="rb") as config_file:
+FileNotFoundError: [Errno 2] Unable to load configuration file (No such file or directory): '/www/server/panel/config/base_setting.py'
